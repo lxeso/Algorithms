@@ -1,6 +1,8 @@
 import java.util.Scanner;
 
-// 문제 : 문자열안에 특정 문자 개수 계산 (대소문자 구분X)
+/*
+* 문제 : 문자열안에 특정 문자 개수 계산 (대소문자 구분X)
+* */
 public class String01 {
     public int solution(String str, char c){
         int answer = 0;

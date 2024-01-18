@@ -1,4 +1,7 @@
 import java.util.*;
+/*
+* 문제 : 입력받은 문자열 속 가장 긴 단어 출력하기 (각 단어는 공백으로 구분되어 있고, 긴 단어가 여러개일 경우 제일 첫번째 단어로 출력)
+* */
 public class String03 {
     public String solution(String str){
         String answer = "";
